@@ -17,3 +17,11 @@
 .header a:hover{
     color: orange;
 }
+
+.btn-logout{
+    margin-left: 15px;
+    border: none;
+    background-color:  #1C2B35;
+    font-size: 17px;
+    color: #FFFFFF;
+}
